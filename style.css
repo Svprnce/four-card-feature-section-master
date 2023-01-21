@@ -83,6 +83,9 @@ main{
     .box{
         display: grid;
     }
+    main{
+        padding: 0.5rem;
+    }
     .card{
         width: 100%;
     }
